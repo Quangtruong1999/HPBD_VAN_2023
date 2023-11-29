@@ -1,8 +1,5 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật em"
-const mainContentLetter = "Chào mừng em đến với tuổi 22, tuổi trưởng thành! Em đã không còn là đứa trẻ để" +
-        " vô ưu, vô lo nữa rồi. Lớn hơn một chút nhất định phải suy nghĩ chín chắn hơn," +
-        " dành nhiều thời gian cho gia đình và bản thân hơn nhé. Mừng ngày sinh nhật, c" +
-        "húc em có một đời giàu sang, xinh đẹp, an yên và hạnh phúc nhé!"
+const contentLetterSrart_actived = "祝你生日快乐。请点击下面的礼物盒。"
+const mainContentLetter = "欢迎你迈入22岁的成年阶段！你已不再是那个无忧无虑的孩子了。长大了一些，必须更加成熟地思考，更多地关心家人和自己。生日快乐，祝愿你拥有富足、美丽、平安和幸福的一生！"
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
