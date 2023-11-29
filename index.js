@@ -1,6 +1,7 @@
 const contentLetterSrart_actived = "祝你生日快乐。请点击下面的礼物盒。"
 const mainContentLetter = "欢迎你迈入22岁的成年阶段！你已不再是那个无忧无虑的孩子了。长大了一些，必须更加成熟地思考，更多地关心家人和自己。生日快乐，祝愿你拥有富足、美丽、平安和幸福的一生！"
 
+
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
 imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
